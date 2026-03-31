@@ -1,5 +1,3 @@
-# Example README.md file for Coursera Projects
-
 ## Overview
 
 ## Code Organization
